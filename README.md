@@ -22,3 +22,8 @@ The network uses the ReLU activation function to ensure non-linearity and achiev
 
 
 These images are preprocessed using the same transformations as the training data, passed through the network, and given predicted class labels. Send. Demonstrates the power of  neural networks in image classification and demonstrates that trained models can be integrated into real-world scenarios to make predictions about unseen objects.
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/19a73837-43ed-4e27-b15a-ddea2aacf8a2)
