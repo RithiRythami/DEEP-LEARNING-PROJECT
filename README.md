@@ -36,3 +36,6 @@ INPUT:
 
 OUTPUT:
 
+
+![Image](https://github.com/user-attachments/assets/fa68f6c6-5a55-47c1-8bea-d89686c83158)
+
